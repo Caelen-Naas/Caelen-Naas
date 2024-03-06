@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1>Hello I'm Caelen Naas</h1>
+<h3>RIT Computer Science Major</h3>
+
+## About Me
+- Pursuing a Bachelor's in Computer Science at Rochester Institute of Technology
+- Computer Science House member
+
+## Next Projects
+- About to start using SQL outside of class for CSH
+- More server work
 
 <!--
 **Caelen-Naas/Caelen-Naas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
